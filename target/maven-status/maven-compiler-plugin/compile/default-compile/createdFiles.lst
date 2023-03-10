@@ -1,8 +1,0 @@
-org\example\kdtree\KDtree.class
-org\example\solver\Solver.class
-org\example\Main.class
-org\example\kdtree\Point.class
-org\example\kdtree\Pair.class
-org\example\kdtree\Node.class
-org\example\kdtree\FixedSizeHeap.class
-org\example\solver\CsvParser.class
